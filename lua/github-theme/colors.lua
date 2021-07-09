@@ -39,8 +39,8 @@ function M.setup(config)
     cyan = themes({dark = "#29b7da", dimmed = "#56d4dd", light = "#0598BC"}),
     brightCyan = themes({dark = "#29b8db", dimmed = "#56d4dd", light = "#0598bc"}),
 
-    bg = themes({dark = "#24292e", dimmed = "#22272e", light = "#ffffff"}),
-    bg2 = themes({dark = "#1f2428", dimmed = "#1e2228", light = "#f6f8fa"}),
+    bg = themes({dark = "#1f2428", dimmed = "#1e2228", light = "#f6f8fa"}),
+    bg2 = themes({dark = "#24292e", dimmed = "#22272e", light = "#ffffff"}),
     bg_visual = themes({dark = "#1b1f23", dimmed = "#444C56", light = "#e1e4e8"}),
     bg_visual_selection = themes({dark = "#284566", dimmed = "#264466", light = "#dbe9f9"}),
     bg_highlight = themes({dark = "#2C313A", dimmed = "#2d333b", light = "#f6f8fa"}),
